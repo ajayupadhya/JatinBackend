@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'core.wsgi.application'
 
 
 CSRF_TRUSTED_ORIGINS = [
-    'https:jatinbackend-production.up.railway.app'
+    'https://jatinbackend-production.up.railway.app'
 ]
 
 
